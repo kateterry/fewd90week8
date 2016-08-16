@@ -1,0 +1,52 @@
+* {
+	margin: 0 auto;
+}
+
+body {
+
+}
+
+#sky {
+  font-family: 'Bungee Shade', cursive;
+  position: relative;
+  background-repeat: no-repeat;
+}
+
+#sun {
+	position: absolute;
+	top: 20px;
+	right: 40px;
+}
+
+#horse {
+	position: fixed;
+	bottom: 210px;
+	left: 50px;
+}
+
+#lamb {
+	position: fixed;
+	bottom: 215px;
+	right: 100px;
+}
+
+h1 {
+	padding: 20px;
+	position: absolute;
+	top: 10px;
+	left: 10px;
+	font-size: 40px;
+}
+
+#cloud {
+	width: 100%;
+}
+
+#grass {
+  background-color: #28893F;
+  position: fixed;
+  height: 200px;
+  width: 100%;
+  bottom: 0;
+  padding: 10px;
+}
